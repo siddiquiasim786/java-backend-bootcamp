@@ -10,12 +10,12 @@ Explains the various operators in Java, including arithmetic, relational, and lo
 ### Control Structures: 
 Explains the different control structures in Java, including if-else statements, for loops, and while loops.
 ### Arrays: 
-Covers arrays in Java, including how to declare, initialize, and manipulate arrays.
+Cover arrays in Java, including how to declare, initialize, and manipulate arrays.
 ### Methods: 
 Explains about methods in Java, including how to define, call, and pass parameters to methods.
 
 ### Object-Oriented Programming: 
-Explains concepts of object-oriented programming, including classes, objects, inheritance, and polymorphism.
+Explain concept of object-oriented programming, including classes, objects, inheritance, and polymorphism.
 
 ## Assignment
 

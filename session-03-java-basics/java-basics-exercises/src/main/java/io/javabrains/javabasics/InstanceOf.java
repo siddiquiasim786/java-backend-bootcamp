@@ -12,6 +12,17 @@ public class InstanceOf {
         };
 
         // Challenge: Use instanceof to determine the type of each object in the array
+        for(Object o: objects) {
+            if(o instanceof Integer) {
+                System.out.println("o is a instance of Integer = " + o);
+            } else if(o instanceof String){
+                System.out.println("o is a instance of String = " + o);
+            } else if(o instanceof Boolean){
+                System.out.println("o is a instance of Boolean = " + o);
+            } else if (o instanceof Double){
+                System.out.println("o is a instance of double = " + o);
+            }
+        }
 
     }
 }
